@@ -39,12 +39,15 @@ clientglowup/
 - [✅] Use JSX tags like `<div>`, `<h1>`, etc.
 
 ### 🧩 Create reusable components
-- [ ] Make `Button`, `Card`, and `Navbar` components
-- [ ] Pass props like `title`, `onClick`, or `children`
+- [✅] Make `Button`, `Card`, and `Navbar` components
+- [✅] Pass props like `title`, `onClick`, or `children`
 
 ### 📦 Use props to make components dynamic
 - [ ] Reuse the `Card` with different content
 - [ ] Understand what props are
+- [ ] Make General Color something for diff themes
+- [ ] Make responsive popup thingy for mobile and desktop
+- [ ] Make layouts responsive to screen sizes too
 
 ---
 
